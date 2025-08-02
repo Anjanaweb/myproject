@@ -1,0 +1,95 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+    padding: 0;
+    
+}
+/* .container{
+    background:#52caf5;
+   
+}
+.inbox{
+    height:20px ;
+} */
+.section{
+    background-color:ghostwhite;
+    padding: 2px;
+}
+.inbox{
+    color: bisque;
+}
+.madels3{
+    text-align: right;
+}
+.inbox2{
+    margin-top: 60px;
+
+}
+.inner-line{
+    background-color: aquamarine;
+
+    width:5px;
+}
+
+h6{
+    color: black
+}
+.sec3{
+    background-color: white;
+   text-align: center;
+   margin-top: 70px;
+   
+
+}
+.sec4{
+    text-align: center;
+    margin-top:70px;
+    background-color:rgb(191, 226, 250);
+    padding: 60px;
+}
+   
+.line{
+    width: 200px;
+    height: 2px;
+    background-color: black;
+    margin: auto;
+}
+.inbox5{
+   text-align: center;
+   color: aliceblue;
+   margin-top: 30px;
+   margin-bottom: 20px;
+  
+}
+.sec5{
+    background-color: black;
+}
+.inbox6{
+    text-align: center;
+    margin-top: 20px;
+    margin-top: 50px;
+    
+}
+.h2center{
+    text-align: center;
+    margin-top: 20px;
+}
+.container{
+    margin-bottom: 50px;
+}
+.inbox9{
+    text-align: center;
+    word-spacing: 50px;
+}
+.inbox9p{
+    word-spacing: normal;
+    
+}
+.link{
+    word-spacing: normal;
+}
+@media (max-width:768px){
+    .inbox2{
+        text-align: center;
+    }
+}
